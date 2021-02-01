@@ -1,5 +1,3 @@
-# Glowing-Text-Hover-Effects
-
 # README
 
 <h1>Glowing-Text-Hover-Effects project</h1>
